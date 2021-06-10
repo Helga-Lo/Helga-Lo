@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Helga-Lo
-- 👀 I’m interested in writing is programm for android and ios
+- 👀 I’m interested in writing  programms for android and ios
